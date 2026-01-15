@@ -46,6 +46,13 @@ git clone https://github.com/Finnwinch/GMDKS-P.git
 mv gdk/init.lua init.lua
 echo "You can now use the GDKS table anywhere."
 ```
+# update
+```bash
+cd GarrysMod/garrysmod/lua/includes/gdk
+git pull
+mv init.lua ../init.lua
+echo "[Updated] You can now use the GDKS table anywhere."
+```
 
 ## Need support or want to contribute?
 
