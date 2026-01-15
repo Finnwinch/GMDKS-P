@@ -8,6 +8,11 @@ GMDKS-P is a framework designed to streamline and strengthen Garry’s Mod devel
 - Centralized storage using a hash vector  
 - Thread-safe automatic color injection
 
+### 🌐 Language
+- Unified language system shared across addons and gamemodes  
+- Centralized storage for translations and phrases
+- Thread-safe and easily extendable localization system
+
 ### 🧩 Object
 - Java-like object system with:
   - Dependency injection  
