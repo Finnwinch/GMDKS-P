@@ -1,7 +1,7 @@
 # Garry's Mod Developpement Kit Source Provider (GMDKS-P)
 GMDKS-P is a framework designed to streamline and strengthen Garry’s Mod development by providing a unified, modular, and powerful structure for developers.
 
-## Features
+## Features todolist
 
 ### 🎨 Color
 - Shared color system across addons and gamemodes  
